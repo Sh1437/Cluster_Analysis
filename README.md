@@ -5,3 +5,4 @@ The Final Results is about creating Visualization Informative Plot using the fin
 Citation:
   1. Covid-19 Literature Cluster Analisis - Maksim Eren
      https://www.maksimeren.com/publication/eren_doceng2020/
+![image](https://user-images.githubusercontent.com/98747339/225187358-f37e2e1b-3fcc-4d83-ba22-2690fcf0da07.png)
